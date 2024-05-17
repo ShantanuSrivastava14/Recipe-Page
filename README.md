@@ -4,7 +4,7 @@ This repository contains the HTML code for a recipe page that narrates the culin
 
 ## Deployed URL
 
-You can view the live recipe page at: [xyz](xyz)
+You can view the live recipe page at: [https://html-recipe-page.onrender.com](https://html-recipe-page.onrender.com)
 
 ## Repository URL
 
